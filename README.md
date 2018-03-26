@@ -6,10 +6,10 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Decision Trees | [Here](./decision-trees.ipynb) |
-|        | Ensembles & Random Forests | [Here](./ensembles-random-forests.ipynb)
-| Solution  | None needed (by-hand group exercises and codealongs) | N/A |
-| Datasets | MLB player data | [hitters.csv](./datas/hitters.csv)
+| Lesson | Part 1: Decision Trees | [Here](./decision_trees.ipynb) |
+|        | Part 2: Ensembles & Random Forests | [Here](./ensembles_random_forests.ipynb)
+| Solution  | None needed (exercises and codealongs done in groups by-hand) | N/A |
+| Datasets | MLB player data | [hitters.csv](./data/hitters.csv)
 | | Titanic survivors | [titanic.csv](./data/titanic.csv)
 | | Vehicles (test) | [vehicles_test.csv](./data/vehicles_test.csv)
 |  | Vehicles (train) | [vehicles_train.csv](./data/vehicles_train.csv)
@@ -34,7 +34,6 @@ After this lesson, students will be able to:
 - Interpret a tree diagram.
 - Describe the key differences between regression and classification trees.
 - Decide whether or not a decision tree is an appropriate model for a given problem.
-
 
 
 ### Part Two: Ensembles & Random Forests
@@ -109,10 +108,4 @@ Before this lesson, students should already be able to:
 *If you're looking for additional references, we recommend the following books:*
 - __CHAPTER 8__ - [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/) - This book provides a fantastic introduction to machine learning models and the statistics behind them. The visuals and explanations are really easy to understand. PDF available to download on the website.
 - __CHAPTER 9__ - [Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/) - This book is by most of the same authors as the previous book, but goes into more detail. PDF available to download on the website.
-- __CHAPTER 8__ - [Applied Predictive Modeling](https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485) - While this book features R code, the discussion of different predictive models and sampling methodologies are hard to beat.  
-
-
-
-<img src="https://images-na.ssl-images-amazon.com/images/I/41oQwj8rS0L._SX329_BO1,204,203,200_.jpg" width="180">
-<img src="https://images-na.ssl-images-amazon.com/images/I/41aQrQaPseL._SX331_BO1,204,203,200_.jpg" width="180">
-<img src="https://images-na.ssl-images-amazon.com/images/I/41S7RyAnsLL._SX313_BO1,204,203,200_.jpg" width="180">
+- __CHAPTER 8__ - [Applied Predictive Modeling](https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485) - While this book features R code, the discussion of different predictive models and sampling methodologies are hard to beat. 
