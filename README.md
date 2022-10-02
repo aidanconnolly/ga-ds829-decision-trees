@@ -8,7 +8,6 @@
 | --- | --- | --- |
 | Lesson | Part 1: Decision Trees | [Here](./decision_trees.ipynb) |
 |        | Part 2: Ensembles & Random Forests | [Here](./ensembles_random_forests.ipynb)
-| Solution  | None needed (exercises and codealongs done in groups by-hand) | N/A |
 | Datasets | MLB player data | [hitters.csv](./data/hitters.csv)
 | | Titanic survivors | [titanic.csv](./data/titanic.csv)
 | | Vehicles (test) | [vehicles_test.csv](./data/vehicles_test.csv)
